@@ -21,7 +21,7 @@ __pycache__/
 
 # Misc
 .DS_Store
-datasets/
+data/
 
 
 # Directory with output figures
